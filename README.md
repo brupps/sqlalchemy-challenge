@@ -1,6 +1,6 @@
 #3 sqlalchemy-challenge
 
-#The Challenge
+The Challenge
 The module 10 challenge included a jupyter notebook and a flask app to analyze data from weather stations in Hawaii. Using skills learned in class and research from stack overflow and github, I was able to complete the challenge as required. 
 
 ## Instructions
