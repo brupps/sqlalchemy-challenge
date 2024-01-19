@@ -1,5 +1,8 @@
 #3 sqlalchemy-challenge
 
+#The Challenge
+The module 10 challenge included a jupyter notebook and a flask app to analyze data from weather stations in Hawaii. Using skills learned in class and research from stack overflow and github, I was able to complete the challenge as required. 
+
 ## Instructions
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
 
